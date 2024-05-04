@@ -40,8 +40,8 @@ public class CovidDataSyncServiceImpl implements CovidDataSyncService {
 
     @Autowired
     private CountryDataRepository countryDataRepository;
-//    3600000 hour
-    @Scheduled(fixedRate = 120000) // Run every hour
+//    3600000 = 60*60*1000 milliseconds = 1 hour
+    @Scheduled(fixedRate = 120000) // Calls to API once every 2 minutes (2*60*1000 milliseconds)
     public void syncCovidData() {
         // Fetch data from APIs
         CovidGlobalData globalData = covidDataService.getGlobalData();
