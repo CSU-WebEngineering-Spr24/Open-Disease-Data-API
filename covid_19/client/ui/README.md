@@ -161,5 +161,5 @@ mvn spring-boot:run
 
 Once the application is running, you can access it by navigating to `http://localhost:8080` in your web browser.
 
-
+We used a 'start' batch file that enables the simultaneous launch of both back end and front-end components of the application, streamlining workflow and ensuring consistency. This efficient approach optimizes time and enhances productivity for developers and administrators.
 
