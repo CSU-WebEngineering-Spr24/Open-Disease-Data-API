@@ -11,27 +11,27 @@ function ContactPage() {
         <div className="col-md-4">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title">Member 1</h5>
-              <p className="card-text">Email: member1@example.com</p>
-              <p className="card-text">Phone: (123) 456-7890</p>
+              <h5 className="card-title">Chaitanya Chikka</h5>
+              <p className="card-text">Email: chikka_chaitanya@students.columbusstate.edu</p>
+              <p className="card-text">TSYS School of CS Phone: (706) 507-8800</p>
             </div>
           </div>
         </div>
         <div className="col-md-4">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title">Member 2</h5>
-              <p className="card-text">Email: member2@example.com</p>
-              <p className="card-text">Phone: (234) 567-8901</p>
+              <h5 className="card-title">Sai Komali Ramanujam</h5>
+              <p className="card-text">Email: ramanujam_saikomali@students.columbusstate.edu</p>
+              <p className="card-text">TSYS School of CS Phone: (706) 507-8800</p>
             </div>
           </div>
         </div>
         <div className="col-md-4">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title">Member 3</h5>
-              <p className="card-text">Email: member3@example.com</p>
-              <p className="card-text">Phone: (345) 678-9012</p>
+              <h5 className="card-title">Bandla Mani Bala</h5>
+              <p className="card-text">Email: bandla_manibala@students.columbusstate.edu</p>
+              <p className="card-text">TSYS School of CS Phone: (706) 507-8800</p>
             </div>
           </div>
         </div>

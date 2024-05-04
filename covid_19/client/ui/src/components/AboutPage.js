@@ -11,7 +11,7 @@ function AboutPage() {
         The data is fetched from APIs and updated regularly to provide accurate information about the current situation of the pandemic.
       </p>
       <p>
-        For any questions or feedback, please contact us at <a href="mailto:example@example.com">example@example.com</a>.
+        For any questions or feedback, please contact us at <a href="mailto:chikka_chaitanya@students.columbusstate.edu/ ramanujam_saikomali@students.columbusstate.edu/ bandla_manibala@students.columbusstate.edu">chikka_chaitanya@students.columbusstate.edu/ ramanujam_saikomali@students.columbusstate.edu/ bandla_manibala@students.columbusstate.edu</a>.
       </p>
     </div>
   );
