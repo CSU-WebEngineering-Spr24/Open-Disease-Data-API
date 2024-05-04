@@ -63,4 +63,6 @@ The application utilizes Spring Security to protect its endpoints and authentica
 3. Run the application using Maven: `mvn spring-boot:run`.
 
 ## Contributors
-- [Your Name]
+- Sai Komali Ramanujam
+- Bandla Mani Bala
+- Chaitanya Chikka
